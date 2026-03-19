@@ -1,6 +1,6 @@
 # Polymarket Trading Bot (TypeScript)
 
-TypeScript port of [Polymarket-Trading-Bot-Rust](https://github.com/your-org/Polymarket-Trading-Bot-Rust). At each 15-minute market start, places limit buys for BTC (and optionally ETH, Solana, XRP) Up/Down at a fixed price (default $0.45).
+At each 15-minute market start, places limit buys for BTC (and optionally ETH, Solana, XRP) Up/Down at a fixed price (default $0.45).
 
 ## Requirements
 
