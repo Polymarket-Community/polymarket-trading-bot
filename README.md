@@ -34,7 +34,7 @@ cp config.json.example config.json   # or copy from Rust project
   npx tsx src/main-dual-limit-045.ts -c /path/to/config.json
   ```
 
-## Logging ([`@slackgram/logger`](https://www.npmjs.com/package/@slackgram/logger))
+## Logging 
 
 - **Console**: colored in development, JSON lines when `NODE_ENV=production`.
 - **Levels**: `LOG_LEVEL=debug|info|warn|error` (default `info`). Use `LOG_DEBUG=true` to force debug.
